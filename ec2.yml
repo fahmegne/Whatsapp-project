@@ -4,3 +4,5 @@
 # select keypair
 # add SG
 # add ebs volume 100 GB
+# add user data
+# add iam

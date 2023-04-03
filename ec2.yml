@@ -3,3 +3,4 @@
 # select instance type
 # select keypair
 # add SG
+# add ebs volume 100 GB
